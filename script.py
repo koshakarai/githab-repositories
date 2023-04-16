@@ -1,2 +1,2 @@
 print("Hello world! AND ALL!")
-print("Hello world! AND ALL! And anybody!")
+print("rlddfsdfsdfgklfhhl;hkl ALL! And anybody!")
